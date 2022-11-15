@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86a0cb34-1064-4372-b4e1-7993f5c3e163" name="Changes" comment="Ioana Bianca Milea - Exercise 17">
+    <list default="true" id="86a0cb34-1064-4372-b4e1-7993f5c3e163" name="Changes" comment="Ioana Bianca Milea - Exercise 19">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Segment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668540414609</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Ioana Bianca Milea - Exercise 18">
+      <created>1668541004028</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668541004028</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ioana Bianca Milea - Exercise 19">
+      <created>1668541275328</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668541275328</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +176,8 @@
     <MESSAGE value="exercise 13-14-15" />
     <MESSAGE value="Ioana Bianca Milea - Exercise 16" />
     <MESSAGE value="Ioana Bianca Milea - Exercise 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ioana Bianca Milea - Exercise 17" />
+    <MESSAGE value="Ioana Bianca Milea - Exercise 18" />
+    <MESSAGE value="Ioana Bianca Milea - Exercise 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ioana Bianca Milea - Exercise 19" />
   </component>
 </project>

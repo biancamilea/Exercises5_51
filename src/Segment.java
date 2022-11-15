@@ -16,4 +16,15 @@ public class Segment {
         return Math.sqrt(Math.pow(endPoint.getX() - startPoint.getX(), 2)
                 + Math.pow(endPoint.getY() - startPoint.getY(), 2) * 1.0);
     }
+
+    public void setOffset(int offX, int offY){
+        this.startPoint.setOffset(offX, offY);
+        this.endPoint.setOffset(offX, offY);
+    }
+
+    @Override
+    public String toString() {
+        return "(" +  startPoint.getX() + ", " + startPoint.getY() + ") " +
+                "- (" + endPoint.getX() + ", " + endPoint.getY() + ")";
+    }
 }

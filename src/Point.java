@@ -18,9 +18,9 @@ public class Point {
         this.y = y;
     }
 
-    public void setOffset(){
-        this.x++;
-        this.y++;
+    public void setOffset(int offsetX, int offsetY){
+        this.x += offsetX;
+        this.y += offsetY;
     }
 
     @Override
