@@ -24,6 +24,10 @@ public class Polygon {
         }).reduce(0d, Double::sum);
     }
 
+    public void setOffset(int offsetX, int offsetY){
+        points.forEach(point -> point.setOffset(offsetX, offsetY));
+    }
+
     @Override
     public String toString() {
         return points.stream().map(point -> {
