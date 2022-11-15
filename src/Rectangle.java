@@ -15,6 +15,11 @@ public class Rectangle extends Point{
         this.height = newHeight;
     }
 
+    public Rectangle(Point p1, Point p2){
+
+    }
+
+
     @Override
     public String toString() {
         return "(" + super.getX() + ", " + super.getY() + ") width:"
