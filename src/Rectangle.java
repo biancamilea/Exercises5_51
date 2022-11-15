@@ -18,6 +18,10 @@ public class Rectangle extends Point{
     public Rectangle(Point p1, Point p2){
     }
 
+    public double getArea(){
+        return width * height;
+    }
+
 
     @Override
     public String toString() {
