@@ -5,6 +5,7 @@ public class Main2 {
 
         point1.setOffset(4, 4);
         point2.setOffset(4,4);
+
         System.out.println(point1.toString());
         System.out.println(point2.toString());
 

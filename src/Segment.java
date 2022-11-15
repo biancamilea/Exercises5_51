@@ -22,6 +22,14 @@ public class Segment {
         this.endPoint.setOffset(offX, offY);
     }
 
+    public void setStartPoint(Point startPoint) {
+        this.startPoint = startPoint;
+    }
+
+    public void setEndPoint(Point endPoint) {
+        this.endPoint = endPoint;
+    }
+
     @Override
     public String toString() {
         return "(" +  startPoint.getX() + ", " + startPoint.getY() + ") " +
