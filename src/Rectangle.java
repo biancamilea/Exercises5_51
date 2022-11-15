@@ -9,6 +9,12 @@ public class Rectangle extends Point{
         height = 0;
     }
 
+    public Rectangle(Point p, int newWidth, int newHeight){
+        super(p.getX(), p.getY());
+        this.width = newWidth;
+        this.height = newHeight;
+    }
+
     @Override
     public String toString() {
         return "(" + super.getX() + ", " + super.getY() + ") width:"
