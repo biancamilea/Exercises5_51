@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 public class Polygon {
-    List<Point> points;
+    private List<Point> points;
 
     public Polygon (){
         this.points = new ArrayList<>();
