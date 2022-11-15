@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86a0cb34-1064-4372-b4e1-7993f5c3e163" name="Changes" comment="Ioana Bianca Milea - Exercise 19">
+    <list default="true" id="86a0cb34-1064-4372-b4e1-7993f5c3e163" name="Changes" comment="Ioana Bianca Milea - Exercise 21">
+      <change afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Segment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668541275328</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Ioana Bianca Milea - Exercise 19">
+      <created>1668541773648</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668541773648</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Ioana Bianca Milea - Exercise 21">
+      <created>1668541882275</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668541882275</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +188,9 @@
     <MESSAGE value="Ioana Bianca Milea - Exercise 16" />
     <MESSAGE value="Ioana Bianca Milea - Exercise 17" />
     <MESSAGE value="Ioana Bianca Milea - Exercise 18" />
+    <MESSAGE value="Ioana Bianca Milea - Exercise 20" />
     <MESSAGE value="Ioana Bianca Milea - Exercise 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ioana Bianca Milea - Exercise 19" />
+    <MESSAGE value="Ioana Bianca Milea - Exercise 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ioana Bianca Milea - Exercise 21" />
   </component>
 </project>
