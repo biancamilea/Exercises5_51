@@ -14,5 +14,7 @@ public class Main4 {
         Rectangle rectangle3 = new Rectangle(point1, point2);
         System.out.println(rectangle3.toString());
 
+        Rectangle rectangle4 = new Rectangle(new Point(5,6), 10, 8);
+        System.out.println(rectangle4.toString());
     }
 }
