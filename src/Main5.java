@@ -18,5 +18,9 @@ public class Main5 {
 
         points.forEach(point -> System.out.println(point.toString()));
 
+        List<Rectangle> rectangles = new ArrayList();
+        points.forEach(point -> rectangles.add(new Rectangle(point, 1, 1)));
+        rectangles.forEach(rectangle -> System.out.println(rectangle.toString()));
+
     }
 }
