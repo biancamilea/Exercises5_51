@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86a0cb34-1064-4372-b4e1-7993f5c3e163" name="Changes" comment="Ioana Bianca Milea - Exercise 21">
-      <change afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="86a0cb34-1064-4372-b4e1-7993f5c3e163" name="Changes" comment="Ioana Bianca Milea - Exercise 26">
+      <change beforePath="$PROJECT_DIR$/src/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polygon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +162,42 @@
       <option name="project" value="LOCAL" />
       <updated>1668541882275</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Ioana Bianca Milea - Exercise 22">
+      <created>1668542055749</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668542055755</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Ioana Bianca Milea - Exercise 23">
+      <created>1668542081019</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668542081019</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Ioana Bianca Milea - Exercise 24">
+      <created>1668542221115</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1668542221115</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Ioana Bianca Milea - Exercise 25">
+      <created>1668542241676</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1668542241676</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Ioana Bianca Milea - Exercise 26">
+      <created>1668542300479</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1668542300479</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +226,11 @@
     <MESSAGE value="Ioana Bianca Milea - Exercise 20" />
     <MESSAGE value="Ioana Bianca Milea - Exercise 19" />
     <MESSAGE value="Ioana Bianca Milea - Exercise 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ioana Bianca Milea - Exercise 21" />
+    <MESSAGE value="Ioana Bianca Milea - Exercise 22" />
+    <MESSAGE value="Ioana Bianca Milea - Exercise 23" />
+    <MESSAGE value="Ioana Bianca Milea - Exercise 24" />
+    <MESSAGE value="Ioana Bianca Milea - Exercise 25" />
+    <MESSAGE value="Ioana Bianca Milea - Exercise 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ioana Bianca Milea - Exercise 26" />
   </component>
 </project>
