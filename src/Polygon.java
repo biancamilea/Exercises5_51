@@ -1,16 +1,27 @@
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
 public class Polygon {
-    Set<Point> points;
+    List<Point> points;
 
     public Polygon (){
-        this.points = new HashSet<>();
+        this.points = new ArrayList<>();
     }
 
-    public Polygon(Set<Point> points) {
+    public Polygon(List<Point> points) {
         this.points = points;
+    }
+
+    public double getLength(){
+        Point startPoint = new Point();
+        return points.stream().map(point -> {
+            Segment temporalSegment = new Segment(startPoint, point);
+            startPoint.setOffset(point.getX(), point.getY());
+            return temporalSegment.getModule();
+        }).reduce(0d, Double::sum);
     }
 
     @Override
