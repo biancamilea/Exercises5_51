@@ -5,10 +5,14 @@ public class Main4 {
         rectangle.moveTo(4, 7);
         System.out.println(rectangle.toString());
 
-        Point point = new Point(1, 1);
+        Point point1 = new Point(2, 2);
+        Point point2 = new Point(5, 8);
 
-        Rectangle rectangle2 = new Rectangle(point, 8, 6);
+        Rectangle rectangle2 = new Rectangle(point1, 8, 6);
         System.out.println(rectangle2.toString());
+
+        Rectangle rectangle3 = new Rectangle(point1, point2);
+        System.out.println(rectangle3.toString());
 
     }
 }

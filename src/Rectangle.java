@@ -16,7 +16,6 @@ public class Rectangle extends Point{
     }
 
     public Rectangle(Point p1, Point p2){
-
     }
 
 
