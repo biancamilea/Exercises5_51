@@ -16,5 +16,7 @@ public class Main5 {
                 new Point(9, 9)
         ));
 
+        points.forEach(point -> System.out.println(point.toString()));
+
     }
 }
